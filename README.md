@@ -1,2 +1,2 @@
 # cache_sim
-Simulates operation of a CPU cache
+A program that simulates operation of a CPU cache written in C++.
